@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # URL from which data will be fetched
-URL = "https://crates.dev.zero1byzerodha.com/users/fetch/emails"
+URL = "https://crates.stage.zero1byzerodha.com/users/fetch/emails"
 
 def fetch_data(url):
     """Fetch data from the specified URL and return a DataFrame."""
