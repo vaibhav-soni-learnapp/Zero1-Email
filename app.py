@@ -19,7 +19,7 @@ def fetch_data(url):
 
 def main():
     """Main function to run the Streamlit app."""
-    st.title("Emails Fetcher App")
+    st.title("✌️ MISSION -Varsity Live Mission")
 
     # Button to trigger data loading
     if st.button("Fetch Emails"):
